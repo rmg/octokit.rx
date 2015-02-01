@@ -1,0 +1,27 @@
+{
+  "name": "octokit.rx",
+  "version": "0.0.0",
+  "description": "GitHub API client exposing a Reactive interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Graham <r.m.graham@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "octokat": "^0.4.2",
+    "rx": "^2.3.24"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rmg/octokit.rx.git"
+  },
+  "keywords": [
+    "github"
+  ],
+  "bugs": {
+    "url": "https://github.com/rmg/octokit.rx/issues"
+  },
+  "homepage": "https://github.com/rmg/octokit.rx"
+}
